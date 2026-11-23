@@ -46,9 +46,8 @@ ${\textsf{\color{#3B283A} typically semi-on tab,}}$ ${\textsf{\color{#3B283A} wh
 ----------------------------
 ----------------------------
                  
-  <p align=center>
+  
    [strawpage (more information)](https://xiax.straw.page) $${\color{#3B283A}꩜}$$    [atabook](https://noxious.atabook.org) $${\color{#3B283A}꩜}$$    [prns.cc](https://pronouns.cc/@Xiax)    
-</p>
   
 ----------------------------
 
