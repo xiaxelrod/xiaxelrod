@@ -27,7 +27,7 @@ ${\textsf{\color{#3B283A} i like:}}$ ${\textsf{\color{#3B283A} FnaF, CaW, dr. st
 </br>
 ${\textsf{\color{#42343E} ponytown info:}}$
 </br>
-${\textsf{\color{#3B283A} c+h is free for everyone if i'm not with someone,}}$ ${\textsf{\color{#3B283A} i am usually with someone who may be uncomfortable with c+h ing randomly, ask them first!!}}$
+${\textsf{\color{#3B283A} c+h is free for everyone if i'm not with someone,}}$ ${\textsf{\color{#3B283A} i am usually with someone who may be uncomfortable}}$ ${\textsf{\color{#3B283A}with c+h ing randomly, ask them first!!}}$
 </br>
 </br>
 ${\textsf{\color{#42343E} you can find me near market, spawn, or under bakery,}}$ ${\textsf{\color{#42343E} i may be elsewhere, as i may be with a friend}}$
