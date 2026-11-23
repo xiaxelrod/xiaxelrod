@@ -25,7 +25,7 @@ ${\textsf{\color{#2B1E33} she/her}}$ ‎  ‎‎ ‎ ‎ ‎ ${\textsf{\color{#2
 ${\textsf{\color{#3B283A} i like:}}$ ${\textsf{\color{#3B283A} FnaF, CaW, dr. steel,}}$ ${\textsf{\color{#2B1E33} ADON, warden,}}$ ${\textsf{\color{#2B1E33} and dark deception}}$
 </br>
 </br>
-${\textsf{\color{#65dcf3} ponytown info:}}$
+${\textsf{\color{#42343E} ponytown info:}}$
 </br>
 ${\textsf{\color{#3B283A} c+h is free for everyone if i'm not with someone,}}$ ${\textsf{\color{#3B283A} i am usually with someone who may be uncomfortable with c+h ing randomly, ask them first!!}}$
 </br>
