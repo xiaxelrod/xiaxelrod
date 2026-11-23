@@ -47,23 +47,34 @@ ${\textsf{\color{#3B283A} typically semi-on tab,}}$ ${\textsf{\color{#3B283A} wh
 ----------------------------
                  
   
-   [strawpage (more information)](https://xiax.straw.page) $${\color{#3B283A}꩜}$$    [atabook](https://noxious.atabook.org) $${\color{#3B283A}꩜}$$    [prns.cc](https://pronouns.cc/@Xiax)    
+[strawpage (more information)](https://xiax.straw.page) $${\color{#3B283A}꩜}$$    [atabook](https://noxious.atabook.org) $${\color{#3B283A}꩜}$$    [prns.cc](https://pronouns.cc/@Xiax)    
   
 ----------------------------
 
 <details>
   <summary><b>byi</b></summary>
 
-  - i am quite a dry person sometimes, i don't mean anything bad by it-- it's just how i am. Socially awkward, i don't do well with meeting new people/talking to people i've met before but haven't spoken to in a while. i'm not comfortable using it/its or nounself/nameself pronouns. If those are the only pronouns listed, i'll use they/them or avoid pronouns when possible... If you don't like that, sorry. i'm vocal about my dislikes--especially if I know you--even if you like them and I'm aware you do. i have a low social battery majority of the time, sorry if i dont keep conversation with you or i just shut down. it isn't your fault (unless your name is cryopathy then it is /j /lh)
+  - i am quite a dry person sometimes, i don't mean anything bad by it-- it's just how i am.
+  - Socially awkward, i don't do well with meeting new people/talking to people i've met before but haven't spoken to in a while.
+  - i'm not comfortable using it/its or nounself/nameself pronouns. If those are the only pronouns listed, i'll use they/them or avoid pronouns when possible... If you don't like that, sorry.
+  - i'm vocal about my dislikes--especially if I know you--even if you like them and I'm aware you do.
+  - i have a low social battery majority of the time, sorry if i dont keep conversation with you or i just shut down. it isn't your fault (unless your name is cryopathy then it is /j /lh)
 </details> 
 
 <details>
   <summary><b>thin ice (unless you are a friend of mine or i've interacted with you before)</b></summary>
-  - forsaken, dandy's World, MCYT/ARGs, cookie run, hetalia, animal hospital, dolly's factory, funhouse, TADC, hellaverse fandoms (i will immediately block you if i first see you with a pony from one of the shows. sorry not sorry). most of you are insufferable. sorry. selfshippers. i've only had bad experiences with them. maybe i'll remove this if i meet the right people ( who aren't already my friends ) 
+  
+  - forsaken, dandy's World, MCYT/ARGs, cookie run, hetalia, animal hospital, dolly's factory, funhouse, TADC, hellaverse fandoms. most of you are insufferable. sorry.
+  -  selfshippers. i've only had bad experiences with them. maybe i'll remove this if i meet the right people ( who aren't already my friends ) 
 </details>
 
 <details>
  <summary><b>dni</b></summary>
   
-  - Darkshippers, Proshippers, Radqueers, creators/consumers of media that promote and glorify things such as rape, incest, beastiality, necrophilia, pedophilia, tragedies (I prefer not to see nor interact with things like this). Boundary breakers. Racists. Transphobes, Homophobes, Sexists. People who fetishize queer relationships. People who discriminate based on beliefs.
+  - Darkshippers, Proshippers, Radqueers, creators/consumers of media that promote and glorify things such as rape, incest, beastiality, necrophilia, pedophilia, tragedies (I prefer not to see nor interact with things like this).
+  -  Boundary breakers.
+  -  Racists.
+  -  Transphobes, Homophobes, Sexists.
+  -  People who fetishize queer relationships.
+  -  People who discriminate based on beliefs.
 </details>
